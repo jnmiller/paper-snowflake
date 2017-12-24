@@ -4,9 +4,9 @@
 
 This demo project uses HTML canvas to draw symmetric, six-pointed snowflakes. You can use it to predict how a design will appear when cut out of paper, or just draw intricate designs that are nice to look at but aren't practical to cut.
 
-I'm not a Javascript pro, so the code is a bit messy and hacked up :)
+I'm not a Javascript pro, so the code isn't pro either :)
 
-## Demos
+## Examples
 
 ![demo1](demo1.gif)
 
