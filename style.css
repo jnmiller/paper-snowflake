@@ -1,0 +1,27 @@
+h1 {
+	font-family: Helvetica, Aria, san-serif;
+}
+
+div#main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+    width: 100%;
+    border: 1px black solid;
+    margin: 10px auto;
+}
+
+div#canvas-container {
+	width: 600px;
+	height: 600px;
+	margin: 10px;
+}
+
+canvas#snowflakeCanvas {
+	border: 1px solid #BBB;
+}
+
+div#instructions {
+	margin: 10px;
+}
+
