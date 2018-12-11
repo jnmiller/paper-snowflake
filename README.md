@@ -10,6 +10,10 @@ I'm not a Javascript pro, so the code isn't pro either :)
 
 ![demo1](demo1.gif)
 
+![demo3](demo3.gif)
+
+Impractical to cut, but neat-looking:
+
 ![demo2](demo2.gif)
 
 ## Credits
