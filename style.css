@@ -1,4 +1,4 @@
-h1 {
+body {
 	font-family: Helvetica, Aria, san-serif;
 }
 
@@ -19,9 +19,16 @@ div#canvas-container {
 
 canvas#snowflakeCanvas {
 	border: 1px solid #BBB;
+	cursor: url(scissors-cursor.png), auto;
 }
 
 div#instructions {
 	margin: 10px;
 }
 
+input.button {
+	border: 2px solid #dd0000;
+	font-size: 18px;
+	font-color: #00dd00;
+	cursor: hand;
+}

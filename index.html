@@ -2,16 +2,14 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body style="cursor: url(scissors-cursor.png), auto;">
-	<h1>Make a Paper Snowflake</h1>
-	<p><em>This doesn't work on mobile devices yet. Sorry!</em></p>
+<body>
+	<h1>❄ Make a Paper Snowflake ❄</h1>
+	<p><em>(Note: not designed for mobile devices...)</em></p>
 	<div id="main">
 		<div id="canvas-container">
 			<canvas id="snowflakeCanvas" width="600" height="600"></canvas>
 		</div>
 		<div id="instructions">
-			<p>
-				<input type="button" value="ERASE" onclick="eraseCanvas(); return false;"/>
 			<p>
 				<a target="_blank" href="https://www.google.com/search?q=how+to+fold+a+paper+snowflake&tbm=isch">How to fold your paper to make a snowflake.</a>
 			</p>
@@ -28,6 +26,9 @@
 			<p>
 			<p>
 				<a target="_blank" href="demo1.gif">See an example design</a>
+			</p>
+			<p>
+				<input type="button" class="button" value="Erase &amp; Start Over" onclick="eraseCanvas(); return false;"/>
 			</p>
 		</div>
 	</div>
